@@ -1,0 +1,10 @@
+.img {
+  background-image: url(/images/bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.blog {
+  width: calc(100% - 15px);
+}
